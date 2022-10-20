@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="16px" height="16px" version="1.1" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <style>#rect241, #rect3005, #rect3481 { 
+    stroke-width:102px;
+}</style>
+ <defs>
+  <linearGradient id="linearGradient2860" x1="62.339" x2="71.768" y1="82.297" y2="82.297" gradientTransform="matrix(.96526 0 -2.737e-8 .96586 -65.699 -68.174)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fff" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2897" x1="62.173" x2="71.934" y1="82.297" y2="82.297" gradientTransform="matrix(.96526 0 -2.737e-8 .96586 -65.699 -68.174)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2895"/>
+  <linearGradient id="linearGradient2895">
+   <stop stop-color="#8a78e4" offset="0"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3479" x1="61.546" x2="62.019" y1="87.185" y2="87.185" gradientTransform="matrix(.95577 3.3885e-8 0 .94996 -65.073 -71.899)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2895"/>
+  <linearGradient id="linearGradient3485" x1="61.546" x2="62.019" y1="87.185" y2="87.185" gradientTransform="matrix(.96316 0 0 .95639 -42.281 -85.743)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2895"/>
+ </defs>
+ <g>
+  <rect transform="matrix(.7309 -.68248 .73645 .67649 0 0)" x="-5.5262" y="6.4997" width="9.1016" height="9.6282" ry=".41397" fill="url(#linearGradient2860)" stroke="url(#linearGradient2897)" stroke-width="1.2724"/>
+  <rect transform="matrix(.60868 -.79342 .7089 .70531 0 0)" x="-6.8394" y="8.8941" width=".13512" height="3.6359" ry=".067147" fill="#fff" stroke="url(#linearGradient3479)" stroke-width="1.3091"/>
+  <rect transform="matrix(.5534 .83291 -.73511 .67794 0 0)" x="17.882" y="-4.4885" width=".13616" height="3.6605" ry=".067602" fill="#fff" stroke="url(#linearGradient3485)" stroke-width="1.3186"/>
+ </g>
+</svg>
